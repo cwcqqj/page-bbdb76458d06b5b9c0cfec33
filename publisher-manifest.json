@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f784fbfb938905ed7dfba3a5",
+  "owner": "cwcqqj",
+  "repo": "page-bbdb76458d06b5b9c0cfec33",
+  "title": "VeChain",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bbdb76458d06b5b9c0cfec33",
+      "a": "VeChain",
+      "b": "2027官方最新地址导航",
+      "entity": "VeChain",
+      "brand": "VeChain",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5175fb75fbdd380738ca135f55de42ec3f8885c15ef6141a39b18fdd0c12db36",
+      "content": {
+        "primary_entity": "VeChain",
+        "keyword1": "VeChain",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，再导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择合适套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "开始连接 VeChain",
+          "AI_DESCRIPTION": "，VeChain 提供多档订阅方案，覆盖手机、电脑与路由器等常见设备。基础版每月 100GB 流量与 3 台设备在线，适合个人日常浏览；旗舰版每月 300GB 流量、5 台设备在线，并配备 IPLC 专线优化；团队版每月 1000GB 流量与 20 台设备在线，满足小团队协作。订阅按周期计费，年付方案更划算。",
+          "AI_FEATURES_INTRO": "从用量、设备数和节点类型三个角度选择套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备搭配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与定制路由。",
+          "AI_FEATURE_TEXT_3": "月付与年付均可选择，年付价格约等于十个月月付，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "按用量选版本",
+          "AI_FEATURE_TITLE_2": "按场景选节点",
+          "AI_FEATURE_TITLE_3": "按周期选付费",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "VeChain 面向中文用户提供海外加速订阅，含基础版、旗舰版与团队版。根据设备数量、月流量和节点需求挑选版本，再按对应客户端文档导入订阅，即可在手机、电脑或路由器上使用。",
+          "AI_HERO_SUBTITLE": "多设备海外加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "支持月付与年付灵活选择",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，年付 ¥150；旗舰版 ¥35/月，年付 ¥350；团队版 ¥85/月，年付 ¥850。",
+          "AI_PLANS_TITLE": "套餐价格对比",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量与节点需求，在基础版、旗舰版和团队版中选择。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备在线数量、流量额度与节点类型是否符合使用场景。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅导入文档完成配置，遇到问题可参考工单支持渠道。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "VeChain 海外加速",
+          "AI_FAQ_ANSWER_1": "三档套餐的主要差别在设备数量、月流量和线路类型。基础版适合 3 台设备、100GB 月流量；旗舰版适合 5 台设备、300GB 月流量并含 IPLC 专线；团队版适合 20 台设备、1000GB 月流量及企业定制路由。",
+          "AI_FAQ_ANSWER_2": "设备数量按套餐限制：基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。如果需要在多台设备间切换，建议选择设备数留有空间的套餐，避免频繁退出。",
+          "AI_FAQ_ANSWER_3": "Windows 与 macOS 使用桌面客户端，Android 与 iOS 使用移动客户端，安装后按订阅信息导入节点。不同系统版本对客户端版本有要求，安装前可先查看适配说明。",
+          "AI_FAQ_ANSWER_4": "基础版解锁基础流媒体，旗舰版提供全节点原生流媒体解锁，团队版使用 VIP 专属高带宽节点。重度流媒体用户可优先考虑旗舰版及以上套餐。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 7x24 优先工单支持，团队版配有专属客户经理。遇到订阅配置或节点连接问题，可通过工单或客户经理渠道获取协助。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "不同设备应该使用哪个客户端？",
+          "AI_FAQ_QUESTION_4": "流媒体解锁在不同套餐中有差异吗？",
+          "AI_FAQ_QUESTION_5": "遇到问题如何获得技术支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dsjxjy.cn",
+    "host": "dsjxjy.cn"
+  },
+  "file_hashes": {
+    "index.html": "66821da8cbdea546f5d5449afe03e13b0ef5322c7e9876fc41aaf44d83e7ed94",
+    "sitemap.xml": "702c5b2a367adc1630c511a8146436b26272f34d3d7c8cf55e6eeb79aee91b67",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "af981ec895164ee76d9c02e2a1eedae0f801f437126cf4acbcf9c385d471fae8",
+    "robots.txt": "2fdfa8ca83976b9040a655aebae527d7be249ebd5fcbeebf4b1759e8d70f3f60",
+    "37a36bdf77257d7bb66bd89531d69aa2.txt": "727e12c8f98c492dc4a3ae6dc2b7b41b59d33dbd884405921af76aec04a2e9d9"
+  },
+  "revision": "279d21eff712b612521ad6a97574213878e4b597fae80a61e5afc0a94e01e49c"
+}
